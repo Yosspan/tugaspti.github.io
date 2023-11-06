@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;1,900&display=swap');
+*{
+    font-family: 'Poppins',cursive;
+}
+body{
+    color: white;
+    width: 95%;
+    height: 80vh;
+    flex-direction: column;
+    background-color: black;
+    background: url(komputer5.jpeg);
+}
+.color{
+    color: black;
+}
+
+.ben{
+    color: grey;
+}
+
+.button a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: #111;
+}
